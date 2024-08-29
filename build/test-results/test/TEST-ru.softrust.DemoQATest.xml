@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.softrust.DemoQATest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-08-29T09:14:44" hostname="PC" time="0.012">
+  <properties/>
+  <testcase name="firstTest()" classname="ru.softrust.DemoQATest" time="0.009"/>
+  <testcase name="secondTest()" classname="ru.softrust.DemoQATest" time="0.002"/>
+  <system-out><![CDATA[beforeAlltests
+Before test!
+
+I love Ira
+after test!
+
+Before test!
+
+I love dota
+after test!
+
+afterAllTests
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
