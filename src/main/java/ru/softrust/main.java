@@ -1,7 +1,7 @@
 package ru.softrust;
 
-public class Main {
-    public static void main(String[] args) {
+public class main {
+    public static void Main(String[] args) {
         System.out.println("I love Ira");
     }
 }
