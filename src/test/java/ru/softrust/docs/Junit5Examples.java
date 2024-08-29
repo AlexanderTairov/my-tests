@@ -1,8 +1,8 @@
-package ru.softrust;
+package ru.softrust.docs;
 
 import org.junit.jupiter.api.*;
 
-public class DemoQATest {
+public class Junit5Examples {
 
     @BeforeAll
     static void beforeAll() {
